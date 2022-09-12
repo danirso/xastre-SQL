@@ -23,6 +23,6 @@ VALUES (19007695,3426,'PI:desenvolvimento web');
 insert into materia(rp,id,nome)
 VALUES (1,2897,'organização de sistemas');
 
-INSERT into materias(rp,id,nome)
+INSERT into materia(rp,id,nome)
 VALUES (16000897,4569,'robotica');
 
